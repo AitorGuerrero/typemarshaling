@@ -1,0 +1,2 @@
+all: true
+check-coverage: true

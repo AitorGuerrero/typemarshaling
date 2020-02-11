@@ -1,0 +1,21 @@
+{
+	"extends": "tslint:recommended",
+	"rules": {
+		"triple-equals": false,
+		"quotemark": [
+			true,
+			"single"
+		],
+		"indent": [
+			true,
+			"tabs"
+		],
+		"curly": false,
+		"import-spacing": false,
+		"no-conditional-assignment": false,
+		"variable-name": false,
+		"no-floating-promises": true,
+		"newline-before-return": true,
+		"ordered-imports": true
+	}
+}

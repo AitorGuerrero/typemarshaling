@@ -5,5 +5,16 @@
   "repository": "git@github.com:AitorGuerrero/typemarshaling.git",
   "author": "Aitor Guerrero <aitor.guerrero@worldcoo.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^13.7.1",
+    "chai": "^4.2.0",
+    "eslint": "^6.8.0",
+    "husky": "^4.2.1",
+    "mocha": "^7.0.1",
+    "nyc": "^15.0.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
 }
